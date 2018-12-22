@@ -12,11 +12,11 @@ A [Sails](http://sailsjs.org) application
 
 * * *
 
-### 安装[项目](http://140.143.16.250:3000/jhlian/RegServer.git)
+### 安装[项目]()
 
 -   克隆仓库,命令
 
-    `git clone http://140.143.16.250:3000/jhlian/RegServer.git`
+    `git clone `
 
 -   安装依赖
 
@@ -175,10 +175,10 @@ NONE
 
 ### About
 
-Author: AriesLian
+Author: leo
 
-E-Mail: arieslian@foxmail.com
+E-Mail: 724757036@qq.com
 
-QQ:     940409666
+QQ:     724757036
 
-WeChat: AriesLian
+WeChat: lixiaogang

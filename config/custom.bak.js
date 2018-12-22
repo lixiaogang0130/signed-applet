@@ -37,7 +37,7 @@ module.exports.custom = {
 
   //public api we required
   weChatGetAppletOpenIdUri: ``,
-  platformAccountInfoUri: `http://public-api.yoursclass.com/YBPublicApi-test/public/index.php/ybaccount/account/getUserInfoByLoginToken`,
+  platformAccountInfoUri: ``,
   //we chat uri we required
   binToken: `https://api.weixin.qq.com/cgi-bin/token`,
   appletCodeUri: `https://api.weixin.qq.com/wxa/getwxacodeunlimit`,
