@@ -6,11 +6,11 @@ const Util = require('util');
 Config.zone = QiNiu.zone.Zone_z1;
 
 //The key and secret of qi niu platform
-QiNiu.conf.ACCESS_KEY = 'qXlFLvDYgAQQh9lTmXJyO9FmzYLwhguuroCO2Z9O';
-QiNiu.conf.SECRET_KEY = 'E5ZEQ4KKZa38egUUKk6AmXaM5wZvNB2xywM47-xs';
+QiNiu.conf.ACCESS_KEY = '';
+QiNiu.conf.SECRET_KEY = '';
 
 //namespace which you want to upload file
-const Bucket = 'yourbay';
+const Bucket = '';
 
 const Mac = new QiNiu.auth.digest.Mac(QiNiu.conf.ACCESS_KEY, QiNiu.conf.SECRET_KEY);
 //config.useHttpsDomain = true;
